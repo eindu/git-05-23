@@ -2,4 +2,9 @@ this is git practice file
 
 this is my second line adding
 
+<<<<<<< HEAD
 this is my third line adding
+=======
+
+added some content as third commit 
+>>>>>>> 7e713dd (third Commit)
